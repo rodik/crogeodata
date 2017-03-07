@@ -5,3 +5,6 @@ Hrvatski geopodaci u raznim formatima
 
 * zupanije_GeoJson - GeoJSON format, sve točke
 * zupanije_TopoJson_PowerBI_optimized - TopoJSON format, reduciran broj točaka - optimizirano za PowerBI Shape Map Visual
+
+Izvori:
+1. http://www.statoids.com/uhr.html
