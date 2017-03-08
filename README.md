@@ -8,3 +8,4 @@ Hrvatski geopodaci u raznim formatima
 
 Izvori:
 1. http://www.statoids.com/uhr.html
+2. Središnji registar prostornih jedinica
